@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hi, I'm Abderrahmane Dbaibigh  
 
 🎓 Master’s student in **Artificial Intelligence and Connected Objects** at Ibn Tofail University.  
