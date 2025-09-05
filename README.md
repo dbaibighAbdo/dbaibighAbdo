@@ -44,7 +44,7 @@ An **Adaptive Retrieval-Augmented Generation pipeline** built with LangGraph.
 - Integrates **routing, fallback, and self-correction strategies**.  
 - Improves **accuracy and reliability** in question answering.  
 
-➡️ Check more projects on [my GitHub repositories](https://github.com/dbaibighAbdo/repositories).  
+➡️ Check more projects on [my GitHub repositories](https://github.com/dbaibighAbdo?tab=repositories).  
 
 ---
 
