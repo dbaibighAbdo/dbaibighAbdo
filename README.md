@@ -27,24 +27,7 @@
 
 ## 🚀 Featured Projects
 
-### 📊 [Research Assistant](https://github.com/dbaibighAbdo/research_assistant)  
-A **graph-based multi-agent system** (LangGraph/LangChain) that organizes research into sub-sections.  
-- AI agents conduct **parallel expert interviews**.  
-- Includes **human-in-the-loop** refinement.  
-- Produces **structured, customizable reports**.  
-
-### 🤖 [Devmate](https://github.com/dbaibighAbdo/DEVMATE)  
-A **multi-agent assistant** that:  
-- Searches GitHub for relevant repositories.  
-- Analyzes codebases.  
-- Provides real-time **coding support** and insights.  
-
-### 🔍 [RAG Agent](https://github.com/dbaibighAbdo/RAG-agent)  
-An **Adaptive Retrieval-Augmented Generation pipeline** built with LangGraph.  
-- Integrates **routing, fallback, and self-correction strategies**.  
-- Improves **accuracy and reliability** in question answering.  
-
-➡️ Check more projects on [my GitHub repositories](https://github.com/dbaibighAbdo?tab=repositories).  
+➡️ Check my projects on [my GitHub repositories](https://github.com/dbaibighAbdo?tab=repositories).  
 
 ---
 
@@ -59,7 +42,12 @@ An **Adaptive Retrieval-Augmented Generation pipeline** built with LangGraph.
 ## 📜 Certifications
 
 - 🏅 [Foundation: Introduction to LangGraph](https://academy.langchain.com/certificates/za6l3d20ev)  
-- 🏅 [Introduction to Model Context Protocol (MCP)](https://verify.skilljar.com/c/9ne32pzv4bey)  
+- 🏅 [Introduction to Model Context Protocol (MCP)](https://verify.skilljar.com/c/9ne32pzv4bey)
+- 🏅 [Deep agents with LangGraph ](https://academy.langchain.com/certificates/kxhus8wypo)
+- 🏅 [Foundation: Introduction to Agent observability & evaluations](https://academy.langchain.com/certificates/lns6w7d614) 
+- 🏅 [Model Context Prototcol: Advanced topics](https://verify.skilljar.com/c/dtiwnxyjet6q)
+- 🏅 [The legend of python](https://www.credential.net/7689d0e4-3faf-4b96-a4a4-d7a1a0b355d3#acc.dr98aWzN)
+
 
 ---
 
