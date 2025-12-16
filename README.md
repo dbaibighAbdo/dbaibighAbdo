@@ -44,35 +44,31 @@
 
 
 ---
-
 ## 🛠️ Skills
 
-### 🤖 Agentic AI & Automations  
-- LangChain, LangGraph, n8n  
-- Prompt & Context Engineering  
+### 🤖 Agentic AI & Orchestration
+- LangGraph, LangChain, n8n  
+- Multi-agent systems, agent orchestration, adaptive workflows  
 
-### 🔮 Generative AI / LLMs  
-- Hugging Face, LlamaIndex, Ollama  
-- LLM APIs (OpenAI, Anthropic, etc.)  
+### 🔮 Generative AI / LLMs
+- Hugging Face, LlamaIndex, Ollama (Llama 3.2)  
+- LLM APIs, context-aware generation, RAG pipelines  
 
-### 📈 Machine Learning  
-- Data preprocessing, Feature engineering, Regularization, Evaluation  
+### 📚 Retrieval-Augmented Generation (RAG)
+- FAISS, ChromaDB, Weaviate  
+- Document indexing, retrievers, LCEL-based pipelines  
 
-### 🧠 Deep Learning  
-- CNNs, RNNs, Transformers  
-- NLP with PyTorch & TensorFlow  
-
-### 🎮 Reinforcement Learning  
-- Q-Learning, Actor-Critic methods  
-
-### 💻 Programming & APIs  
+### 💻 Backend & APIs
 - Python, FastAPI  
+- Deployment of AI services and inference APIs  
 
-### 🗄️ Databases & Data Management  
-- PostgreSQL, MongoDB, Vector DBs  
+### 🗄️ Databases & Knowledge Systems
+- PostgreSQL, MongoDB  
+- Vector databases and knowledge graphs (Neo4j)  
 
-### ⚙️ MLOps & Tools  
-- MLflow, LangSmith, MCP, Docker, Git/GitHub  
+### ⚙️ LLMOps / MLOps & Tooling
+- MLflow, LangSmith, MCP  
+- Experiment tracking, monitoring, evaluation, Docker, Git/GitHub  
 
 ---
 
