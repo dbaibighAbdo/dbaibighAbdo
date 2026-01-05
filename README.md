@@ -72,13 +72,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dbaibighAbdo&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dbaibighAbdo&layout=compact&theme=tokyonight)  
-
----
-
 ⭐️ Feel free to check out my projects and connect with me — always open to collaboration on AI, ML, and automation!  
 
 
